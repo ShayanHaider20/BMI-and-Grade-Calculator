@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# BMI-and-Grade-Calculator
-=======
-# 📊 BMIG (BMI & Grade Calculator)
+#  BMIG (BMI & Grade Calculator)
 
 ## 📌 Project Overview
 **BMIG** is a **BMI (Body Mass Index) and Grade Calculator** system. It allows users to enter their **credentials** to check if they meet the criteria. Once approved, they can:
@@ -29,5 +26,4 @@
 ## 📥 Installation
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/ahmedalisheikh4/Assembly_BMIG.git
->>>>>>> 59579c4 (Version1)
+   git clone [https://github.com/ahmedalisheikh4/Assembly_BMIG.git](https://github.com/ShayanHaider20/BMI-and-Grade-Calculator.git)
